@@ -1,0 +1,5 @@
+Homework Q1 Error and Q5 Narration is missing
+Lab Q10 Graph is best to define differences
+
+hw: 75
+lab: 95
